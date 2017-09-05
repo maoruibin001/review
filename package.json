@@ -1,0 +1,25 @@
+{
+  "name": "review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "hotnode www/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maoruibin001/review.git"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "body-parser": "^1.17.2",
+    "multer": "^1.3.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maoruibin001/review/issues"
+  },
+  "homepage": "https://github.com/maoruibin001/review#readme"
+}
